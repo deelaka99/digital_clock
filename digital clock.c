@@ -48,5 +48,5 @@ void main()
     }
     h = 0;
     goto start;
-    getch();
+    getch(); //changes
 }
